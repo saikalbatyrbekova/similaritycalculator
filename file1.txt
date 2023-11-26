@@ -1,0 +1,5 @@
+Java is a powerful and versatile programming language.
+It is widely used for developing various types of applications.
+Object-oriented programming is a key feature of Java.
+The HashSet class in Java is useful for storing unique elements.
+Ensure your WordProcessor handles these distinct words correctly.

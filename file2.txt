@@ -1,0 +1,5 @@
+Python is a popular programming language known for its simplicity.
+It is widely used in web development, data science, and artificial intelligence.
+Python emphasizes readability and ease of use.
+The set data type in Python is efficient for handling distinct elements.
+Verify that your SimilarityCalculator computes Jaccard similarity accurately.
